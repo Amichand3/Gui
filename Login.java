@@ -71,7 +71,8 @@ public class Login {
                    }
                  
                 }};
-               
+                f.add(label3);
+                
               
 
 
